@@ -33,7 +33,10 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-show_downloads: false
+collections:
+  reports:
+    output: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
