@@ -9,9 +9,10 @@ title: Welcome!
 Welcome! You're behind the scenes of mastodon.africa right now - on this site, you'll find more information about:
 
 <ul>
-  <li>Our <a href="/vision">vision and mission</a> for mastodon.africa</li>
-  <li>Our <a href="/conduct">code of conduct</a></li>
-  <li>The standard <a href="/terms">Terms and Conditions</a></li>
+  <li>Our <a href="/vision">vision and mission</a> for mastodon.africa <small>(last updated 19 Dec 2022)</small></li>
+  <li>Our <a href="/conduct">code of conduct</a> <small>(last updated 22 Dec 2022)</small></li>
+  <li>Monthly <a href="/reports">operating reports</a> for the instance <small>(last updated 22 Dec 2022)</small></li>
+  <li>The standard <a href="/terms">Terms and Conditions</a> <small>(last updated 22 Dec 2022)</small></li>
   <li><a href="/about">protocol7</a> - the company providing this service</li>
 </ul>
 

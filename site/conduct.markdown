@@ -4,8 +4,8 @@ title: Code of Conduct
 permalink: /conduct/
 ---
 
-<div style="background-color: #FCFECE; color: #000000; padding: 10px 12px; margin-bottom: 16px; border: #FCD13F solid 1px;">
-    These are still under development! If you have feedback, message @wogan@mastodon.africa or email <a href='&#109;ailto&#58;%77o&#37;67an%4&#48;prot%6&#70;%63%6F%6C7&#46;co&#46;&#122;&#97;'>wogan&#64;pro&#116;&#111;col7&#46;co&#46;z&#97;</a>
+<div style="background-color: #cff4fc; color: #055160; padding: 10px 12px; margin-bottom: 16px; border: #b6effb solid 1px; border-radius: 4px;">
+    This Code of Conduct is in effect as of 22 December 2022, and is subject to change over time. If you have feedback, message <a style="color: blue;" href="https://mastodon.africa/@wogan">@wogan@mastodon.africa</a> or email <a style="color: blue;" href='&#109;ailto&#58;%77o&#37;67an%4&#48;prot%6&#70;%63%6F%6C7&#46;co&#46;&#122;&#97;'>wogan&#64;pro&#116;&#111;col7&#46;co&#46;z&#97;</a>
 </div>
 
 This Code of Conduct is not a legal document, and final interpretation is up to the moderators of mastodon.africa. By joining the instance, you agree to conduct yourself in line with these principles.
@@ -24,7 +24,7 @@ This Code of Conduct is not a legal document, and final interpretation is up to 
 
 The purpose of mastodon.africa is to provide a secure, neutral social media platform that you (the person) can rely on - whether for your personal social profile, or that of your organization or business. To that end, these guidelines should give you an idea of what to expect when posting content directly to your mastodon.africa account.
 
-<h4>Be respectful</h4>
+<h4>Be respectful of others</h4>
 
 Every South African has a basic set of rights:
 
@@ -92,8 +92,4 @@ More a technical point than anything else: Don't take actions with the intent of
 
 We do actively monitor the health of the service, and if we see behavior like that, we'll take immediate action: Anything from banning your user account, to blacklisting an IP range.
 
-<h4>No harassment, stalking, or sharing of personal data</h4>
-
-<p>Detail TBC</p>
-
-<small>Last updated: 20 December 2022</small>
+<small>Last updated: 22 December 2022</small>
