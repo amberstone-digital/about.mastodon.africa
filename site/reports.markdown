@@ -6,6 +6,14 @@ permalink: /reports/
 
 <p>This page will be updated monthly to recap key events of the month, and the hosting costs incurred to keep Mastodon.Africa running.</p>
 
+<h1>January 2023</h1>
+
+<p>The main goal for this month is to get Mastodon.Africa listed and visible as a destination for African users, and complete a full month on the current AWS hosting stack (to ensure it's properly resourced, and to get a sense of how many users can be supported on the current setup.</p>
+
+<ul>
+  <li>2 Jan: Updated the December 2022 Hosting Costs with the final figures</li>
+</ul>
+
 <h1>December 2022</h1>
 
 <p>Main project this month was to finalize the service setup: Get everything migrated to South Africa, set up the terms/conduct rules, and prepare to open the doors "properly"</p>
@@ -17,19 +25,19 @@ permalink: /reports/
 <li>19 Dec: about.mastodon.africa created, Vision and Mission populated, first draft of Code of Conduct</li>
 <li>19 Dec: AWS CloudFront CDN enabled and configured</li>
 <li>22 Dec: Code of Conduct, Terms and Conditions finalized</li>
-<!--<li>22 Dec: Instance registration opened - accounts can now be created without prior approval</li>-->
+<li>22 Dec: Instance registration opened - accounts can now be created without prior approval</li>
 </ul>
 
 <h3>Hosting Costs</h3>
 
-<p>This is as of 22 December 2022, and the instance is brand new, but the current breakdown of the AWS hosting bill is:</p>
+<p>Utilization from 19 December to 31 December 2023, last updated 2 January 2023:</p>
 
 <ul>
-  <li>t3.medium instance (EC2): $3.20</li>
-  <li>Media and backup storage (S3): $0.98</li>
-  <li>DNS Hosting (Route53): $0.52</li>
-  <li>Tax: $0.71</li>
-  <li><strong>Total (Dec 2022): $5.41</strong></li>
+  <li>t3.medium instance (EC2): $16.50</li>
+  <li>Media and backup storage (S3): $4.20</li>
+  <li>DNS Hosting (Route53): $0.59</li>
+  <li>Tax: $3.19</li>
+  <li><strong>Total (Dec 2022): $24.48</strong></li>
 </ul>
 
 <hr>
