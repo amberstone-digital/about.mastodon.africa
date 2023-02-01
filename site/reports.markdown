@@ -13,7 +13,7 @@ permalink: /reports/
 <ul>
   <li>1 Feb: Added the provisional January 2023 report</li>
   <li>1 Feb: Updated server retention policy: Media will cache for 14 days, content for 21 days</li>
-<ul>
+</ul>
 
 <h1>January 2023</h1>
 
