@@ -6,13 +6,52 @@ permalink: /reports/
 
 <p>This page will be updated monthly to recap key events of the month, and the hosting costs incurred to keep Mastodon.Africa running.</p>
 
+<h1>February 2023</h1>
+
+<p>Having completed a full calendar month of service hosting, I'm pretty comfortable with the setup - the instance has been stable and responsive, and the costs are within expectations. No major goals this month, other than some optimization on storage utilization.</p>
+
+<ul>
+  <li>1 Feb: Added the provisional January 2023 report</li>
+  <li>1 Feb: Updated server retention policy: Media will cache for 14 days, content for 21 days</li>
+<ul>
+
 <h1>January 2023</h1>
 
-<p>The main goal for this month is to get Mastodon.Africa listed and visible as a destination for African users, and complete a full month on the current AWS hosting stack (to ensure it's properly resourced, and to get a sense of how many users can be supported on the current setup.</p>
+<p>The main goal for this month was to get Mastodon.Africa listed and visible as a destination for African users, and complete a full month on the current AWS hosting stack (to ensure it's properly resourced, and to get a sense of how many users can be supported on the current setup.</p>
 
 <ul>
   <li>2 Jan: Updated the December 2022 Hosting Costs with the final figures</li>
+  <li>3 Jan: Submitted the server to joinmastodon.org for listing (as of 2 Feb 2023, it's not listed)</li>
+  <li>29 Jan: Listed mastodon.africa on <a href="https://fedi.garden/mastodon-africa/" target="_blank">fedi.garden</a></li>
 </ul>
+
+<h3>Instance Statistics</h3>
+
+<p>As of 1 Feb 2023:</p>
+
+<ul>
+  <li>No user reports</li>
+  <li>No service downtime</li>
+  <li>20 active users</li>
+  <li>2.73gb in database utilization</li>
+  <li>383.4gb (1,235,860 items) in media storage utilization</li>
+</ul>
+
+<h3>Hosting Costs</h3>
+
+<p>Utilization from 1 January 2023 to 31 January 2023, last updated 1 February 2023:</p>
+
+<ul>
+  <li>t3.medium instance (EC2): $40.27</li>
+  <li>Media and backup storage (S3): $12.27</li>
+  <li>DNS Hosting (Route53): $0.73</li>
+  <li>Data Transfer: $0.06</li>
+  <li>Tax: $8.00</li>
+  <li><strong>Total (Jan 2023): $61.33</strong></li>
+  <li><strong>Total (USDZAR 17.4081): R1,067.64</strong></li>
+</ul>
+
+<p><strong>NB:</strong> The ZAR figure is provisional, until AWS actually sends the invoice</p>
 
 <h1>December 2022</h1>
 
