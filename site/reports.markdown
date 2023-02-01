@@ -15,6 +15,8 @@ permalink: /reports/
   <li>1 Feb: Updated server retention policy: Media will cache for 14 days, content for 21 days</li>
 </ul>
 
+<hr>
+
 <h1>January 2023</h1>
 
 <p>The main goal for this month was to get Mastodon.Africa listed and visible as a destination for African users, and complete a full month on the current AWS hosting stack (to ensure it's properly resourced, and to get a sense of how many users can be supported on the current setup.</p>
@@ -52,6 +54,8 @@ permalink: /reports/
 </ul>
 
 <p><strong>NB:</strong> The ZAR figure is provisional, until AWS actually sends the invoice</p>
+
+<hr>
 
 <h1>December 2022</h1>
 
